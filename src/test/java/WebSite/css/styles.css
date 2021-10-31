@@ -1,0 +1,118 @@
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>THORNY WAY</title>
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+</head>
+
+<body>
+<style type="text/css">
+   BODY {
+    background: url(images/Fon.jpg) center no-repeat; background-size: 100% 100%;
+   }
+  </style>
+<div id="wrapper">
+    <header>
+        <a href="/"><img src="" alt="THORNY WAY"></a>
+        <form name="search" action="#" method="get">
+            <input type="text" name="q" placeholder="Search"><button type="submit">GO</button>
+        </form>
+    </header>
+    <nav>
+        <ul class="top-menu">
+            <li><a href="/home/">HOME</a></li>
+            <li><a href="/partners/">Students</a></li>
+            <li><a href="/projects/">PROJECTS</a></li>
+            <li><a href="/careers/">CAREERS</a></li>
+            <li><a href="/contact/">CONTACT</a></li>
+        </ul>
+    </nav>
+    <h1>ABOUT STUDY</h1>
+    <div id="heading"></div>
+    <aside>
+        <nav>
+            <ul class="aside-menu">
+                <li><a href="/QA TESTER/">QA TESTER</a></li>
+                <li><a href="/Literature/">Literature</a></li>
+                <li><a href="/Practice/">Practice</a></li>
+                <li><a href="/Tasks/">Tasks</a></li>
+                <li><a href="/Foto/">Foto</a></li>
+                <li><a href="/Other/">Other</a></li>
+            </ul>
+        </nav>
+        <h2>OUR OFFICES</h2>
+        <p><img src="images/1234.png" width="230" height="180" alt="Our offices"></p>
+
+
+    </aside>
+    <p>Однажды ночью в провинции, где располагался монастырь, прошёл сильнейший снегопад.
+        Утром ученики, пробираясь буквально по пояс в снегу, собрались в зале для медитаций.</p>
+    <p> Учитель собрал учеников и спросил: – Скажите, что нам нужно сейчас делать?</p>
+    <p> Первый ученик сказал: – Следует помолиться, чтобы началась оттепель.
+        Второй предположил: – Нужно переждать в своей келье, а снег пусть идёт своим путём.
+        Третий сказал: – Тому, кто познал истину, должно быть всё равно – есть ли снег или нет его.</p>
+    <p> Учитель молвил: – А теперь послушайте, что я вам скажу.
+        Ученики приготовились внимать величайшей мудрости.
+        Учитель обвёл их взглядом, вздохнул и сказал: – Лопаты в руки – и вперёд!</p>
+    <p> Мораль: не забывайте о том, что действительно работает – действии!</p>
+    <figure>
+        <img src="images/122.png" width="320" height="175" alt="">
+    </figure>
+    <section>
+        <blockquote>
+            <p>
+                “Teaching light not teaching darkness”
+            </p>
+            <form>
+                <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+                <label for="vehicle1"> Agreed</label><br>
+                <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+                <label for="vehicle2"> Disagree</label><br>
+            </form>
+        </blockquote>
+        <h2>OUR GROUP</h2>
+        <style>
+    table, th, td {
+        border: 1px solid black;
+    }
+        </style>
+        </head>
+        <body>
+        <table>
+            <tr><th>Name</th><th>Country</th><th>Foto</th></tr>
+            <tr><td> jshkvc </td><td> sdvc,bh</td><td>sv,jb </td></tr>
+            <tr><td>sw,dvb </td><td>svjhz </td><td> ZCvd,j</td></tr>
+        </table>
+        </body>
+    </section>
+</div>
+<footer>
+    <div id="footer">
+        <div id="personal profile">
+            <h3>Personal profile</h3>
+            <form>
+                <label for="fname">First name:</label><br>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname">Last name:</label><br>
+                <input type="text" id="lname" name="lname">
+            </form>
+        </div>
+        <div id="sitemap">
+            <h3>SITEMAP</h3>
+            <div>
+                <a href="/home/">Home</a>
+                <a href="/about/">About</a>
+                <a href="/services/">Services</a>
+            </div>
+        </div>
+        <div id="Services">
+            <h3>Services</h3>
+            <li> <a href="https://github.com">Github</a></li>
+            <time datetime="2012-10-23"><a href="#">23 oct</a></time>
+        </div>
+    </div>
+    </footer>
+</head>
+</body>
+
